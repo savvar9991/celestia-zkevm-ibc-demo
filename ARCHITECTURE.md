@@ -3,7 +3,7 @@
 > [!NOTE]
 > This is a work in progress designed to describe all the components needed for transferring tokens from Celestia to a ZK proven EVM
 
-To provide some context on what we’re trying to achieve, we’re going to start with describing the user flow for transferring TIA to a ZK EVM (Based of the current flow)
+To provide some context on what we’re trying to achieve, we’re going to start with describing the user flow for transferring TIA to a ZK EVM (Based on the current flow)
 
 ![zkevm-ibc-transfer-flow](./zkevm-ibc-transfer-flow.png)
 
